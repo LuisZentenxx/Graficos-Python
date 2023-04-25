@@ -1,0 +1,3 @@
+LUIS,6.6
+MARIA,5.5
+ANGEL,6.0
