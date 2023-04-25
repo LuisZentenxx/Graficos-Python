@@ -1,4 +1,4 @@
-##PROBLEMA 1
+PROBLEMA 1
 
 -Se necesita un programa que permita registrar las notas de un curso de máximo 30 estudiante (Sólo su primer nombre, no repetible) y la nota (entre 1.0 y 7.0) hasta ingresar a los 30 estudiantes o hasta ingresar la palabra "OK". 
   Dicha información debe ser almacenada en un diccionario.
@@ -10,7 +10,7 @@
   - Cantidad de estudiantes aprobados y reprobados (Nota < 4.0 reprueba)
   
 
-##PROBLEMA 2
+PROBLEMA 2
 
 -Generar un programa que permita graficar la función f(t) = 2 - 2e(-t/3)*cos(2t) en el intervalo de 0 y 20.
  El gráfico debe contener lo siguiente: 
